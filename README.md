@@ -14,9 +14,8 @@ git clone https://github.com/marko-zivanic/PythonProxyChecker
 1. Copy your list of proxies in the **proxylist.txt** in the format:
 	protocol://ip:port
 	
-	Examples:
-		http://170.106.104.64:13001
-		socks4://46.188.2.42:5678
+	Example:
+		http://170.106.104.64:13001 **proxies taken fom https://proxyscrape.com/free-proxy-list**
 
 2. Run **proxychecker.py** by using:
 	```
